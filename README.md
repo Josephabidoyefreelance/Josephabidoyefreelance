@@ -22,10 +22,10 @@ Full-Stack Developer, AI Automation Engineer, and Logistics Entrepreneur based i
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" title="MongoDB"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" title="PostgreSQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" title="Express"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" title="AWS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" title="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" title="Pandas"/>
+  ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 </div>
 
 <br/>
@@ -72,6 +72,6 @@ Full-Stack Developer, AI Automation Engineer, and Logistics Entrepreneur based i
 ![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=flat-square&logo=google&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white)
 
-
+[![Joseph's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Josephabidoyefreelance&show_icons=true&theme=dark&hide_border=true)](https://github.com/Josephabidoyefreelance)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Josephabidoyefreelance&theme=dark&hide_border=true)](https://git.io/streak-stats)
