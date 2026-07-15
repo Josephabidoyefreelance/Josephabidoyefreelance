@@ -25,7 +25,7 @@ Full-Stack Developer, AI Automation Engineer, and Logistics Entrepreneur based i
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" title="AWS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" title="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" title="Pandas"/>
-  ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+  (https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 </div>
 
 <br/>
