@@ -11,7 +11,7 @@ Full-Stack Developer, AI Automation Engineer, and Logistics Entrepreneur based i
 - 🤖 AI data annotator on Mindrift, Turing, and Outlier
 - 🎓 MBA at University of Lagos (Production & Operations Management Specialization)
 - 🌐 Portfolio: [josephabidoye.netlify.app](https://josephabidoye.netlify.app)
-
+(https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 
 ### Languages and Tools
 
